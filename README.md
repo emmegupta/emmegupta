@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @emmegupta
+- 👋 Hi, I’m **Mehul Gupta**
 - 👀 I’m interested in learning new technologies respect to Linux systems.
 - 🌱 I’m currently learning Git and Red Hat Enterprise Linux.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Git and Linux.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
